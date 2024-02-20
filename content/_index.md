@@ -234,8 +234,6 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: emilio.molina [at] creatis.insa-lyon.fr; emiliomolina217@gmail.com
       address:
@@ -246,7 +244,7 @@ sections:
       
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '45.78240180343192, '
+        latitude: '45.78240180343192'
         longitude: '4.87481507271505'  
       # Automatically link email and phone or display as text?
       autolink: true
