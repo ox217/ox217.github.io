@@ -1,11 +1,12 @@
 ---
-title: Optimal synthesis for a class of $L^ınfty$ optimal control problems in the
-  plane with $L^1$ constraint on the input
+title: Optimal control approaches for Open Pit planning
 authors:
 - Emilio Molina
-- Alain Rapaport
+- Pierre Martion
+- Héctor Ramírez
 date: '2023-01-01'
 publishDate: '2024-02-20T12:36:06.554857Z'
 publication_types:
 - article-journal
+publication: '*Optimization and Engineering*'
 ---
