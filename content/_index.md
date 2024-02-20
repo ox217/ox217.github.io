@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       # Contact (add or remove contact options as necessary)
-      email: emilio.molina [at] creatis.insa-lyon.fr; emiliomolina217@gmail.com
+      email: emilio.molina [at] creatis.insa-lyon.fr; emiliomolina217 [at] gmail.com
       address:
         street: 21 Av. Jean Capelle
         city: Lyon
