@@ -24,8 +24,7 @@ organizations:
     url: https://www.creatis.insa-lyon.fr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Currently, I'm a postdoctoral researcher in the Creatis Medical Imaging Research Center. Prior to this, I held a postdoctoral position at Gispa-lab, Université Grenoble Alpes. I obtained my PhD in applied mathematics as part of a cotutelle between Universidad de Chile and Sorbonne Université, Laboratoire Jacques Louis-Lions. My advisor in Chile was Héctor Ramírez C. and in France Pierre Martinon along with Mario Sigalotti.  The title of my doctoral thesis is Application of optimal control techniques to natural systems management.
-.
+bio: Currently, I'm a postdoctoral researcher in the Creatis Medical Imaging Research Center. Prior to this, I held a postdoctoral position at Gispa-lab, Université Grenoble Alpes. I obtained my PhD in applied mathematics as part of a cotutelle between Universidad de Chile and Sorbonne Université, Laboratoire Jacques Louis-Lions. My advisor in Chile was Héctor Ramírez C. and in France Pierre Martinon along with Mario Sigalotti.  The title of my doctoral thesis is Application of optimal control techniques to natural systems management.;
 
 # Interests to show in About widget
 interests:
