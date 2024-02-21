@@ -1,5 +1,5 @@
 ---
-title: Optimal synthesis for a class of $L^ınfty$ optimal control problems in the
+title: Optimal synthesis for a class of $L^{\ınfty}$ optimal control problems in the
   plane with $L^1$ constraint on the input
 authors:
 - Emilio Molina
