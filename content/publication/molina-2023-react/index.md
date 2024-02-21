@@ -1,6 +1,7 @@
 ---
 title: 'React to the Worst: Lightweight and proactive protection of location privacy'
 description: <a href="www.google.com">click to open the extarnal tab</a>
+[I'm an inline-style link](https://www.google.com)
 authors:
 - Emilio Molina
 - Mirko Fiacchini
