@@ -1,6 +1,6 @@
 ---
-- title: Optimization model for rostering and crew assignment for train transportation
-  url: https://www.researchgate.net/publication/334666591_Optimization_model_for_rostering_and_crew_assignment_for_train_transportation
+title: Optimization model for rostering and crew assignment for train transportation
+
 authors:
 - J Amaya
 - E Molina

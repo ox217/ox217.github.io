@@ -1,6 +1,5 @@
 ---
 title: Optimal control approaches for Open Pit planning
-url: https://link.springer.com/article/10.1007/s11081-023-09797-w
 authors:
 - Emilio Molina
 - Pierre Martion
