@@ -9,4 +9,5 @@ publishDate: '2024-02-20T12:36:06.576564Z'
 publication_types:
 - article-journal
 publication: '*Automatica*'
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0005109822004587
 ---
