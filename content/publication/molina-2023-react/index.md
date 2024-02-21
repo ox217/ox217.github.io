@@ -1,5 +1,5 @@
 ---
-title: <a href="www.google.com"> 'React to the Worst: Lightweight and proactive protection of location privacy'</a>
+title: 'React to the Worst: Lightweight and proactive protection of location privacy'
 authors:
 - Emilio Molina
 - Mirko Fiacchini
@@ -11,3 +11,4 @@ publication_types:
 - article-journal
 publication: '*IEEE Control Systems Letters*'
 ---
+prueba ox
