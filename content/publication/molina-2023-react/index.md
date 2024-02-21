@@ -10,5 +10,6 @@ publishDate: '2024-02-20T12:36:06.563634Z'
 publication_types:
 - article-journal
 publication: '*IEEE Control Systems Letters*'
+
+url_pdf: https://hal.science/hal-04128118
 ---
-prueba ox
