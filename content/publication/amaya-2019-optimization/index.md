@@ -12,4 +12,6 @@ publication_types:
 publication: "*Mining goes Digital: Proceedings of the 39th International Symposium'Application
   of Computers and Operations Research in the Mineral Industry'(APCOM 2019), June
   4-6, 2019, Wroclaw, Poland*"
+url: https://www.researchgate.net/publication/334666591_Optimization_model_for_rostering_and_crew_assignment_for_train_transportation
+
 ---
