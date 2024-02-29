@@ -223,6 +223,7 @@ sections:
     id: edu
     content:
       title: Education Projects
+      text: Since 2015, I have sporadically collaborated with the Education Laboratory of the Center for Mathematical Modeling in Chile (https://cmmedu.uchile.cl/) on projects aimed at enhancing the mathematical skills of students and teachers through the development of programs and resources.
       filters:
         folders:
           - external-project
