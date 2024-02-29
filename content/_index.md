@@ -222,13 +222,13 @@ sections:
   - block: collection
     id: edu
     content:
-      title: Projects in education
+      title: Education Projects
       filters:
         folders:
           - external-project
     design:
-      columns: '2'
-      view: compact
+      columns: '1'
+      view: showcase
   
   #- block: tag_cloud
   #  content:
