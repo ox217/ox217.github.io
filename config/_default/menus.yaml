@@ -13,7 +13,7 @@ main:
   - name: Thesis
     url: '#projects'
     weight: 30
-  - name: Projects in education
+  - name: Education projects
     url: '#edu'
     weight: 40
   - name: Publications
