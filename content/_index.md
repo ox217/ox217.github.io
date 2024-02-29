@@ -181,6 +181,10 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  
+  
+  
+  
   #- block: markdown
   #  content:
   #    title: Gallery
@@ -214,16 +218,18 @@ sections:
     design:
       columns: '2'
       view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    columns: '2'
-  #    view: compact
+  
+  - block: collection
+    id: edu
+    content:
+      title: Projects in education
+      filters:
+        folders:
+          - external-project
+    design:
+      columns: '2'
+      view: compact
+  
   #- block: tag_cloud
   #  content:
   #    title: Popular Topics
@@ -238,9 +244,9 @@ sections:
       email: emilio.molina [at] creatis.insa-lyon.fr; emiliomolina217 [at] gmail.com
       address:
         street: 21 Av. Jean Capelle
-        city: Lyon
+        city: Villeurbanne
         postcode: '69100'
-        country: FRance
+        country: France
       
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
