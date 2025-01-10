@@ -5,7 +5,7 @@ authors:
 - Emilio Molina
 - Alain Rapaport
 date: '2025-01-01'
-publishDate: '2025-02-20T15:18:47.051341Z'
+publishDate: '2025-01-01T15:18:47.051341Z'
 publication_types:
 - article-journal
 publication: '*Optimization*'
