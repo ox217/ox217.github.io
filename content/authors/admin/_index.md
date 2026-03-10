@@ -31,9 +31,9 @@ interests:
   - Optimal Control
   - Optimization
   - Model Predictive Control
-  - Natural Resource Management
   - Epidiomiology
   - MRI
+  - Alzheimer
 # Education to show in About widget
 #education:
  # courses:
